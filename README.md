@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **varshika.20210977@iit.ac.lk**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/dwph051gm3](https://flowcv.com/resume/dwph051gm3)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
