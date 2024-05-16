@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varshika</h1>
+<h1 align="center">Hi 👋, I'm Varshika 😄</h1>
 <h3 align="center">A second year SE undergraduate from Sri Lanka</h3>
 
 - 🔭 I’m currently working on [ShopTalk2Me](https://github.com/varshi158/ShopTalk2Me.git)
