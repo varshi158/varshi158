@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varshika</h1>
 <h3 align="center">A second year SE undergraduate from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [RePurpose+](https://github.com/8xNehanSS/repurpose_frontend.git)
+- 🔭 I’m currently working on [ShopTalk2Me](https://github.com/varshi158/ShopTalk2Me.git)
 
 - 🌱 I’m currently learning **Flutter, MERN Stack**
 
