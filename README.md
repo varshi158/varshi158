@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varshika 😄</h1>
-<h3 align="center"><i>An SE undergraduate from Sri Lanka</i></h3>
+<h3 align="center"><i>SE undergraduate from Sri Lanka</i></h3>
 
 - 🔭 I’m currently working on [ShopTalk2Me](https://github.com/varshi158/ShopTalk2Me.git)
 
